@@ -1,6 +1,6 @@
 # 🌸✨ SoftUni Software Engineering and DevOps ✨🌸
 
-> 💞 *A SoftUni Software Engineering and DevOps course I graduated in 2025*
+> 💞 *A SoftUni Software Engineering and DevOps course I compleated in 2025*
 
 ---
 
